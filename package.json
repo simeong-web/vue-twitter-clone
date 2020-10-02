@@ -11,8 +11,9 @@
   "dependencies": {
     "@tailwindcss/ui": "^0.6.2",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
+    "express": "^4.17.1",
     "tailwindcss": "^1.8.10",
+    "vue": "^2.6.11",
     "vue-router": "^3.4.5"
   },
   "devDependencies": {
